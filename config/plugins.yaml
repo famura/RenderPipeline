@@ -8,7 +8,7 @@ enabled:
     - bloom
     - color_correction
     - forward_shading
-    - motion_blur
+    # - motion_blur
     - pssm
     - scattering
     - skin_shading

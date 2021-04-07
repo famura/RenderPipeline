@@ -304,8 +304,8 @@ def setup():
 
     print(color("\n\n-- Setup finished sucessfully! --", Fore.GREEN + Style.BRIGHT))
 
-    if not CMD_ARGS.ci_build:
-        ask_download_samples()
+#    if not CMD_ARGS.ci_build:
+#        ask_download_samples()
 
 
 if __name__ == "__main__":
